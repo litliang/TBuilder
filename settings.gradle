@@ -1,0 +1,3 @@
+include ':app'
+//, ':auto'
+//rootProject.name='Auto'
